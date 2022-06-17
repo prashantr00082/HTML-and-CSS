@@ -1,0 +1,9 @@
+.error{
+    color: red;
+}
+p.success{
+    color: rgb(168, 236, 65);
+}
+p.success.feedback{
+    border: 3px dashed greenyellow;
+}
