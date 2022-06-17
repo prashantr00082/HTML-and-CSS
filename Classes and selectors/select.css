@@ -7,3 +7,7 @@ p.success{
 p.success.feedback{
     border: 3px dashed greenyellow;
 }
+#content{
+    background-color: aliceblue;
+    padding: 20px;
+}
